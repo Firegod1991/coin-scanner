@@ -1,0 +1,178 @@
+{
+  "note": "These are published major defects and varieties, not a line for every date. Specialist catalogs such as CONECA, Wexler, and the VAM list add many minor ones. Off-center strikes, clips, cuds, and wrong planchets can happen in any year and are not repeated under each date.",
+  "sources": [
+    "https://www.error-ref.com/error_and_variety_check_list/",
+    "https://www.greysheet.com/prices/item?gsid=2167",
+    "https://coinweek.com/the-12-rare-lincoln-cent-double-dies-that-collectors-chase/",
+    "https://uscoinsguide.com/us-coin-errors-and-varieties/",
+    "https://coins.thefuntimesguide.com/us-error-coins-list/",
+    "https://proxiblog.org/list-of-errors-and-varieties/",
+    "https://www.thesprucecrafts.com/kennedy-half-dollar-errors-and-varieties-768828"
+  ],
+  "series": {
+    "lincoln-wheat": {
+      "1909": ["1909 VDB and 1909 no VDB are two types. A doubled die obverse on the VDB cent is a known variety. Look at the initials and LIBERTY."],
+      "1917": ["1917 doubled die obverse. Check LIBERTY and the date."],
+      "1922": ["1922 No D, or plain, from a worn Denver die. The mint mark is missing or very weak and the reverse is sharp on the strong variety."],
+      "1936": ["1936 doubled die obverse is a known Lincoln variety. The spread is smaller than 1955."],
+      "1943": ["Normal 1943 cents are steel and stick to a magnet. A bronze 1943 cent is a wrong-planchet rarity. Steel 1943 doubled dies and repunched mint marks are also listed."],
+      "1944": ["A steel 1944 cent is a wrong-planchet rarity and sticks to a magnet. 1944-D/S is a listed overmintmark."],
+      "1946": ["1946-S/D is a listed overmintmark."],
+      "1951": ["1951-D/S is a listed overmintmark."],
+      "1955": ["1955 doubled die obverse, Philadelphia. The date, LIBERTY, and IN GOD WE TRUST show a wide second image. A 1955 with only flat machine doubling is the so-called poor man's doubled die and is not that coin."],
+      "1958": ["1958 doubled die obverse is a major rarity, not a coin you should expect in change."]
+    },
+    "lincoln-memorial": {
+      "1959": ["Doubled dies are reported. Most are minor."],
+      "1960": ["1960 and 1960-D large date and small date. Compare the 6 and the 0."],
+      "1969": ["1969-S doubled die obverse. LIBERTY and the date are strongly doubled. The S mint mark is not doubled."],
+      "1970": ["1970-S large date and small date. Doubled dies are also reported."],
+      "1972": ["1972 doubled die obverse. Several dies. The strong one shows a clear spread on IN GOD WE TRUST and LIBERTY."],
+      "1974": ["1974 large date and small date."],
+      "1982": ["Large date and small date, and both copper and zinc planchets. A 1982-D small-date cent that weighs about 3.11 grams is the scarce copper transitional."],
+      "1983": ["1983 doubled die reverse. UNITED STATES OF AMERICA, ONE CENT, and E PLURIBUS UNUM show the spread. A copper 1983-D is a reported transitional."],
+      "1984": ["1984 doubled ear. A second lobe sits under Lincoln's ear."],
+      "1988": ["1988 no FG, the designer's initials missing on the reverse, is listed as a variety."],
+      "1990": ["1990 no-S proof cent. Proofs only. The S is missing."],
+      "1992": ["1992 and 1992-D close AM. The A and M in AMERICA are close together, the proof style, on a business strike."],
+      "1995": ["1995 doubled die obverse. Look for a spread on LIBERTY, especially the last letters."],
+      "1998": ["1998, 1999, and 2000 wide AM. The letters A and M in AMERICA sit farther apart. 1999 is the scarce one."],
+      "1999": ["1999 wide AM. A and M in AMERICA are widely spaced. This is the key date of the wide AM group."],
+      "2000": ["2000 wide AM. Same AM test as 1998 and 1999. Less scarce than 1999."]
+    },
+    "lincoln-shield": {
+      "2019": ["A doubled die reverse is reported. The spread is usually small and needs a loupe."],
+      "2021": ["A doubled die reverse is reported. Check the shield lettering under a loupe."],
+      "2022": ["A doubled die reverse is reported. Most examples are minor."]
+    },
+    "buffalo": {
+      "1913": ["1913 Type 1 has the buffalo on a raised mound. Type 2 has a straight line under the buffalo."],
+      "1916": ["1916 doubled die obverse is a known variety. Check the date and the feathers."],
+      "1918": ["1918/7-D is an overdate on the Denver nickel. Look at the 7 under the 8."],
+      "1936": ["1936 doubled die obverse is a listed Buffalo variety."],
+      "1937": ["1937-D three-legged. The front leg is missing because the die was overpolished. Check the reverse, not the date."],
+      "1938": ["1938-D/S is an overmintmark."]
+    },
+    "jefferson": {
+      "1939": ["1939 reverses exist from the 1938 hub and the 1940 hub. The steps and lettering differ."],
+      "1942": ["Some 1942 nickels are the regular alloy. Later 1942 coins with a large P, D, or S over the dome are 35 percent silver."],
+      "1943": ["1943, 1944, and 1945 with the large mint mark over the dome are silver war nickels. 1943-P doubled eye is a listed variety. Look at Jefferson's eye."],
+      "1944": ["Silver war nickel if the large mint mark sits over the dome."],
+      "1945": ["Silver war nickel if the large mint mark sits over the dome."]
+    },
+    "westward": {
+      "2004": ["Two reverses: Peace Medal and Keelboat. A doubled die is not the thing to hunt. Confirm which reverse you have."],
+      "2005": ["2005-D speared bison and 2005-D detached leg are the listed defects. Look at the bison's legs and belly."]
+    },
+    "mercury": {
+      "1941": ["1941-D doubled die obverse and reverse are listed."],
+      "1942": ["1942/1 and 1942/1-D overdates. Look at the 2 in the date. A 1 shows under it."],
+      "1945": ["1945 doubled die obverse is listed. 1945-S micro S is a small mint mark."]
+    },
+    "roosevelt": {
+      "1964": ["1964-D doubled die is a listed dime variety. Also the last 90 percent silver year."],
+      "1965": ["A 1965 dime struck on a silver planchet is a transitional error. Normal 1965 dimes are clad."],
+      "1968": ["1968 no-S proof. Proofs only."],
+      "1970": ["1970 no-S proof. Proofs only."],
+      "1975": ["1975 no-S proof. Proofs only. Very rare."],
+      "1982": ["1982 no P. A Philadelphia business strike missing the P mint mark."],
+      "1983": ["1983 no-S proof is listed."]
+    },
+    "standing-liberty": {
+      "1916": ["1916 is the rare first year. It is a date rarity, not a die defect."],
+      "1917": ["1917 Type 1 has no chain mail. Type 2 covers Liberty's chest with chain mail."],
+      "1918": ["1918/7-S is the famous overdate. Look at the date."]
+    },
+    "washington": {
+      "1932": ["1932-D and 1932-S are scarce dates, not die defects."],
+      "1934": ["1934 light, medium, and heavy motto. The motto IN GOD WE TRUST was strengthened during the year."],
+      "1937": ["1937 doubled die obverse is a listed quarter variety."],
+      "1942": ["1942-D doubled die obverse is a listed variety."],
+      "1943": ["1943-S doubled die obverse, often called the goiter variety, shows extra metal on Washington's neck."],
+      "1952": ["1952 superbird. The eagle's wing tip was re-engraved."]
+    },
+    "state-quarter": {
+      "1999": ["State quarters of many years have minor doubled dies. 1999 is not one of the famous extra-leaf coins."],
+      "2004": ["2004-D Wisconsin extra leaf. A high leaf or a low leaf sticks up from the ear of corn. Philadelphia coins are the normal design."],
+      "2005": ["2005 Minnesota doubled dies and extra-tree dies are the listed state-quarter defects. Look at the trees by the lake."]
+    },
+    "kennedy": {
+      "1964": ["1964 accented hair, mostly on proofs: stronger hair above the ear and a weak serif on the I in LIBERTY. 1964 and 1964-D doubled dies show spread on IN GOD WE TRUST. 1964 is also 90 percent silver."],
+      "1966": ["1966 SMS doubled die obverse is a listed variety. Some special-strike coins are missing the FG initials."],
+      "1971": ["A 1971-D struck on a silver planchet is a transitional error. Normal 1971 halves are clad."],
+      "1972": ["1972-D no FG. The designer's initials are missing from the reverse because the die was polished too hard."],
+      "1974": ["1974-D doubled die obverse. Strong spread on IN GOD WE TRUST and LIBERTY. This is the major clad doubled die of the series."],
+      "1976": ["1776-1976 clad halves spend near face. 1976-S silver is a collector issue, not a defect."],
+      "1977": ["A 1977-D on a silver planchet is a reported transitional."],
+      "1982": ["1982-P no FG. Missing designer initials on the reverse."]
+    },
+    "walking-liberty": {
+      "1916": ["1916, 1916-D, and 1916-S are scarce first-year dates."],
+      "1917": ["1917-D and 1917-S come with the mint mark on the obverse or the reverse. Obverse mint marks are the scarcer pair."],
+      "1946": ["1946 doubled die reverse is a listed Walking Liberty variety."]
+    },
+    "morgan": {
+      "1878": ["1878 comes with 8 tail feathers, 7 tail feathers, and 7 over 8 tail feathers. Count the feathers and look for a second set underneath."],
+      "1880": ["1880/79 overdates are listed on some Carson City and Philadelphia dies."],
+      "1882": ["1882-O/S is an overmintmark. Look at the mint mark."],
+      "1888": ["1888-O hot lips. Doubling on Liberty's lips and nose from a doubled die."],
+      "1900": ["1900-O/CC. An O mint mark punched over a CC. Look inside the O."],
+      "1901": ["1901 doubled die reverse is a listed Morgan variety."]
+    },
+    "peace": {
+      "1921": ["1921 is high relief. The cheek and eagle often look weak. That is the design, not damage, when the rim lettering is sharp."],
+      "1922": ["1922 onwards is the lower relief. A 1922 high-relief strike is a rarity, not the normal coin."],
+      "1934": ["1934-D doubled die obverse is a listed Peace dollar variety."]
+    },
+    "sba": {
+      "1979": ["1979-P near date, also called wide rim. The date sits closer to the rim than on the far-date coins."],
+      "1981": ["1981-S proof comes with a filled S and a clear S."]
+    },
+    "sacagawea": {
+      "2000": ["2000-P Cheerios dollar. The prototype reverse has extra detail in the eagle's tail feathers. It came in Cheerios boxes, not in ordinary change."]
+    },
+    "ike": {
+      "1971": ["1971-S and some later S mint silver collector strikes are 40 percent silver. A clad Ike from change is the normal coin."],
+      "1972": ["1972 has three reverse varieties. Type 2 has the Earth more rounded between the islands. Type 3 is the later, sharper reverse."],
+      "1976": ["1776-1976 clad and 1776-1976 silver collector strikes. Silver ones were sold in Mint packaging."]
+    },
+    "indian-head": {
+      "1859": ["1859 has a laurel wreath reverse. 1860 changed to an oak wreath and shield."],
+      "1864": ["1864 comes in copper-nickel and in thinner bronze. Bronze coins with the L on the ribbon are a variety."],
+      "1888": ["1888 over 7 is a reported overdate. It is scarce."]
+    },
+    "liberty-nickel": {
+      "1883": ["1883 without CENTS and 1883 with CENTS. The no-CENTS coin is a type, and many were gold-plated later. Plating is damage, not a mint defect."],
+      "1913": ["1913 Liberty nickel is a famous rarity with only a handful known. A normal 1912 or 1913 Buffalo is not this coin."]
+    },
+    "shield-nickel": {
+      "1866": ["1866 and early 1867 have rays on the reverse. Later 1867 and after have no rays."],
+      "1867": ["With rays and without rays."]
+    },
+    "seated-dime": {
+      "1853": ["1853 arrows at the date, and some with arrows and rays, mark a weight change. Arrows are the design, not damage."],
+      "1873": ["1873 arrows at the date, and closed or open 3 varieties."]
+    },
+    "seated-quarter": {
+      "1853": ["1853 arrows and rays, then arrows without rays. The arrows are a weight-change design."],
+      "1873": ["1873 arrows at the date."]
+    },
+    "seated-half": {
+      "1853": ["1853 arrows and rays."],
+      "1873": ["1873 arrows at the date."]
+    },
+    "franklin": {
+      "1955": ["1955 bugs bunny. A die clash makes Franklin look like he has buck teeth. Look at the mouth."]
+    },
+    "barber-quarter": {
+      "1892": ["1892-O micro O is a small mint mark variety."]
+    },
+    "barber-dime": {
+      "1892": ["1892-O micro O is listed."]
+    },
+    "trade-dollar": {
+      "1875": ["Chop marks are later commercial stamps, not a mint defect. Note them and do not call them cuds."]
+    }
+  }
+}
+

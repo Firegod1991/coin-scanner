@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Coin Scanner</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <img id="feed" alt="">
+  <svg id="reticle" aria-hidden="true"></svg>
+
+  <header class="hud">
+    <div class="brand">Coin Scanner</div>
+    <button id="coin-button" type="button">Choose a coin</button>
+    <label class="year">
+      <span>Year</span>
+      <input id="year" inputmode="numeric" maxlength="4" placeholder="1964" autocomplete="off">
+    </label>
+    <label class="cam">
+      <span>Camera</span>
+      <select id="camera"></select>
+    </label>
+    <button id="reconnect" type="button">Reconnect</button>
+    <button id="quit" type="button">Quit</button>
+  </header>
+
+  <aside id="drawer" hidden>
+    <input id="search" type="search" placeholder="Search, such as quarter or 1955" autocomplete="off">
+    <div id="list"></div>
+  </aside>
+
+  <div id="status">No coin</div>
+  <div id="value-wrap" hidden>
+    <div id="value-badge" class="wait">Pick a coin</div>
+    <div id="value-price"></div>
+    <ol id="report">
+      <li><span>Coin</span><b id="report-coin"></b></li>
+      <li><span>Grade</span><b id="report-grade"></b></li>
+      <li><span>Value</span><b id="report-value"></b></li>
+      <li><span>Errors</span><b id="report-errors"></b></li>
+      <li><span>Market</span><b id="report-market"></b></li>
+    </ol>
+    <div id="value-note" hidden></div>
+    <div id="psa-line"></div>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>
+
