@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+calibration.json
+scanner/value_charts.json
+scanner/indian_head_values.json
